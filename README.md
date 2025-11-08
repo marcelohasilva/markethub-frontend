@@ -414,10 +414,4 @@ npm run dev
 - [TypeScript Handbook](https://www.typescriptlang.org/docs/) - Guia TypeScript
 - [Tailwind CSS](https://tailwindcss.com/docs) - Documentação completa
 
-## 📄 Licença
-
-Este projeto é open-source e está disponível sob a licença MIT.
-
 ---
-
-**Dúvidas?** Abra uma issue no repositório!
